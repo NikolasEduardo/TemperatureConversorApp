@@ -1,6 +1,6 @@
 # idm
 
-A new Flutter project.
+Um Projeto novo de Flutter que consiste em calcular a Temperatura dada em graus celsius, e converter para Kelvin (K°) e Fahrenheit (F°).
 
 ## Getting Started
 
